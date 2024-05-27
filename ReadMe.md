@@ -1,0 +1,1 @@
+Run the project with python.exe in the venv
